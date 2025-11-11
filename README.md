@@ -14,6 +14,21 @@ This repository contains the setup for a geOrchestra server using Docker.
 
 The geOrchestra Docker setup has been added as a git submodule tracking version 24.0.
 
+#### Quick Setup (Using the setup script)
+
+1. **Clone this repository with submodules**:
+   ```bash
+   git clone --recurse-submodules https://github.com/Maredius/geovisu.git
+   cd geovisu
+   ```
+
+2. **Run the setup script**:
+   ```bash
+   ./setup.sh
+   ```
+
+#### Manual Setup
+
 1. **Clone this repository with submodules**:
    ```bash
    git clone --recurse-submodules https://github.com/Maredius/geovisu.git
