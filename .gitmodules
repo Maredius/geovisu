@@ -1,0 +1,4 @@
+[submodule "docker"]
+	path = docker
+	url = https://github.com/georchestra/docker.git
+	branch = 24.0
